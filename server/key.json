@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "fullstack-296009",
+  "private_key_id": "578273e95500ae391155f31d74dc876131a0fdd0",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDSMmnGidOCtaeh\nKDVj4MJ3iJi2h45eUSe2TmXlSVNNruEiT2HKa3QWlPvRj0L9OYRE53el7oomPCRo\nrGJLQqs3NZbTp2wYtZ/WI7S7atw+xw5aQ5WgxN4upT2tPub/U/vV4fRRf7aHlawc\nZhypX2rydFamL5tE3JmhYsxeP5/qNxtRtEmpPVyXXh6Q7WyRMV99cGDShQytIiPf\nHN4R6Li10ibIuw3AQR5x2vsUG6Bd4IpWbQ9kPqM7Ad/UD6sbQgJYDRTiv8c+HiRN\nE+FhrlEbH7ajDZn/G78SNjUg/FFKKqz8K2GbgnpHcVe0MSNEaj5Wttewrhh2Quwo\nbZyJXj0JAgMBAAECggEAEJmmJGWcpGlDvpS+GK/2s7mANAQjIHxAymNJJVFD6LHr\nukmyI6oWTjVAaPWrOPPqqAVuu9ZJp0jfKDwa/C4c9vx+t6L0hMQNRjxmKNoA4F1Y\nmxTU05BQqrbmltDNrfL8Q9E3Oht/txgBMnH3CAJO4CyDblb6qHbSlD4I/VWBg93m\n9HDv4Z9rseUbFRqZa8b2s00O8yDo6oUfWYwwZ2j7W7bZMuQCG2Z1XrSIKVGzMGBc\nG5Vha6pB4S3syBQ0hbSyfCaSHUAxVgvk9I8yqsWEE+l9JCLXjsW3fyDVOZCCXyfR\nDY4+YsON6L0ghsL8WEstp5vegW6lJs6qFo7al9ojvQKBgQD/qMyGlWnOmjhNJSqg\nw4Uq1Ga7ydJx0p4X775E20i7BP/GEYjbrq31hghlGqmo7FeUjA1PN2XRym1XEgxb\nTlQ4y9MlQfVkUditorBPIWqdR+hp9xF6gwVLJ8v/23/zoIpczqbKcwvlesoJQ71J\nfAQVKY6wPwkjwsYRu3OQBTMJzQKBgQDSehuYEVnKJKC37PH3/a5CbBag1TccH98G\nZjkyGABqRgllRD/1VaSU5lZVPJu5V0TA60dg3Foe1nF+IsXDqxYdGHva40nkyNIh\nuvBHIgv92P/sv1/jtHXNFwZwdQTexgUnnQbDc00i6Y/cZin5jEcNWj1hNlt9N48P\naaDsnaeULQKBgQCgp5M2s2eU48aje8qI0bS6EFUqho3O5vpfslEPdfkDRQXxko08\n90zrr7lQx2t78mCqwUOP1xENvzXsdDP9oIA+XJ8nl4Y7707I9iXy493aThiXliGO\nqgzGiJCiDG4gS28HGPko2RjNsNaK8d1d8yehoMbArCvzI+9Rr0jUZOAItQKBgBl7\nCugoAZTFRme92bVKEtSbvUmPRnKzMQ7XRUlZOoOjIvQNhSiwS5JzKDR9d+TCOeKZ\nGTUSuB5Pm8HHd+WuSqkPE792ELYP0dCfjwMtjgIXSTRiHru0VyaTCQaIRCSsGGep\nTO5QgSAe4nmuLJq3bsqhCBlCuWS5WypkgUTj+SupAoGBAKPFoyWPdLy26j/FiQ/r\nAmzz098Inx6OuSB9PNbchZ15PYFtzhL0CFyvh/C1u+FTDSNCAeAAYbdYFky9xHD9\nhyH0ZLn22JJ4lC4KOSdjoVFc32FtuHY+JLHvIlPamzqG8ChhCGP8xC9Px/MvKHW1\n+kUCtxWre+mREess+/QKp89x\n-----END PRIVATE KEY-----\n",
+  "client_email": "fullstack@fullstack-296009.iam.gserviceaccount.com",
+  "client_id": "117452712088368146043",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/fullstack%40fullstack-296009.iam.gserviceaccount.com"
+}
